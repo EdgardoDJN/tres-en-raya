@@ -27,8 +27,3 @@ Cada jugador consta de tres piezas. Por turnos, cada uno coloca sus piezas, cuan
 - [@EdgardoJimenez](https://www.github.com/katherinepeterson)
 
   
-## Licencia
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-  
